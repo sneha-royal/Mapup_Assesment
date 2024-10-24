@@ -2,7 +2,6 @@
 
 
 ## Result Submission:
-- Data that you need to work with is in the folder `datasets`.
 - There is a folder named `submissions` in the root of repository,  placed the solution files (python_section_1.py, python_section_2.py, excel_assessment.xlsm). 
   - 📂 repository
       - 📂 submissions
