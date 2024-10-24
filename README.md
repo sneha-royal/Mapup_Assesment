@@ -1,42 +1,29 @@
 # MapUp - Python Assessment
 
-## Overview
-
-This assessment is designed to evaluate your proficiency in Python programming, data manipulation, and analysis, as well as your ability to work with Excel. Below, you'll find details on each component of the assessment and the tasks you should complete. Best of luck!
-
-
-## Important Points to Note:
-- The assessment will be tested using our internal set of test cases. Scripts must be developed in accordance with the template shared. Please use the following template to create your scripts:
-    - 📂 templates
-        - 📄 python_section_1.py
-        - 📄 python_section_2.py
-- We've clearly outlined the interfaces of our functions, specifying the input and output data types with distinct signatures.
-- Any deviation especially in naming conventions and providing arguments will impact the correct assessment of your work
-
 
 ## Result Submission:
 - Data that you need to work with is in the folder `datasets`.
-- Clone the provided GitHub repository.
-- There should be a folder named `submissions` in the root of your cloned repository, where you need to place the solution files (python_section_1.py, python_section_2.py, excel_assessment.xlsm). This folder should contain the following:
-  - 📂 your_cloned_repo
+- There is a folder named `submissions` in the root of repository,  placed the solution files (python_section_1.py, python_section_2.py, excel_assessment.xlsm). 
+  - 📂 repository
       - 📂 submissions
         - 📄 python_section_1.py
         - 📄 python_section_2.py
         - 📄 excel_assessment.xlsm
       - 📂 templates
       - 📂 datasets
-- Add the following members as **collaborators** to your repository.
+- Added the following members as **collaborators** to the repository.
     - `varuna@mapup.ai`
     - `nitinsk@mapup.ai`
     - `parshuca@mapup.ai`
-- Submit the link to your repository via the provided Google Form for evaluation.
+- Submitted the link to my repository via the provided Google Form for evaluation.
 
 
 ## MapUp - Excel Assessment
 
-You have to submit an excel assessment (as an .xlsm file) along with your python task. This evaluation tests your proficiency in Conditional Formatting, Excel Formulae, and Data Manipulation
+I had to submitted the excel assessment (as an excel_assesment.xlsm file) 
 <br /><br /> 
 # Python Section 1
+Solution under "python_section_1.py"
 
 ## Question 1: Reverse List by N Elements
 
@@ -219,6 +206,7 @@ You are given a dataset, `dataset-1.csv`, containing columns `id`, `id_2`, and t
 Create a function that accepts `dataset-1.csv` as a DataFrame and returns a boolean series that indicates if each (`id`, `id_2`) pair has incorrect timestamps. The boolean series must have multi-index (`id`, `id_2`).
 <br /><br /> 
 # Python Section 2
+Solution under "python_section_2.py"
 
 ***(Questions in this section are interrelated, so please solve them accordingly.)***
 ## Question 9: Distance Matrix Calculation
